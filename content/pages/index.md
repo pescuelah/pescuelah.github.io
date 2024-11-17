@@ -57,7 +57,7 @@ sections:
     showDate: false
     showDescription: true
     showFeaturedImage: true
-    showReadMoreLink: true
+    showReadMoreLink: false
     variant: variant-b
     projects:
       - content/pages/projects/project-two.md
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
