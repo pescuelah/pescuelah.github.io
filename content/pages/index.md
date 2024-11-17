@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: PESCUELA.COM
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
