@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-c
     backgroundSize: full
     title: >-
       I’m a developeR, consultant and a bunch of other impressive titles and
