@@ -55,8 +55,8 @@ sections:
         label: See all projects
         url: /projects
     showDate: false
-    showDescription: true
-    showFeaturedImage: true
+    showDescription: false
+    showFeaturedImage: false
     showReadMoreLink: false
     variant: variant-b
     projects:
