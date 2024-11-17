@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: >-
       I’m a developeR, consultant and a bunch of other impressive titles and
       buzz words.
