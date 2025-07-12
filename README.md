@@ -2,7 +2,6 @@ Static Website
 
 This repository hosts the source files and configuration for a static website built with [Publii](https://getpublii.com/) and deployed to [GitHub Pages](https://pages.github.com/).
 
-> 🔗 Live site: [https://yourusername.github.io/yourrepo](https://yourusername.github.io/yourrepo)
 
 ---
 
