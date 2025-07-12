@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "pescuela",
+    "description": "",
+    "home_page_url": "https://pescuela.com",
+    "feed_url": "https://pescuela.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "harold"
+    },
+    "items": [
+    ]
+}

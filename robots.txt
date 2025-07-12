@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pescuela.com/sitemap.xml
